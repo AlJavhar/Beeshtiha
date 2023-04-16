@@ -1,1 +1,1 @@
-![Alt Text] D:\bootcamp\Beeshtiha\beeshtiha.DAL\Repositories
+![Alt Text]\beeshtiha.DAL\Repositories
