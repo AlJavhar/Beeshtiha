@@ -1,0 +1,17 @@
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.csproj.AssemblyReference.cache
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.AssemblyInfoInputs.cache
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.AssemblyInfo.cs
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.csproj.CoreCompileInputs.cache
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\bin\Debug\net6.0\beeshtiha.DAL.deps.json
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\bin\Debug\net6.0\beeshtiha.DAL.runtimeconfig.json
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\bin\Debug\net6.0\beeshtiha.DAL.dll
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\bin\Debug\net6.0\beeshtiha.DAL.pdb
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\bin\Debug\net6.0\Beeshtiha.Domain.dll
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\bin\Debug\net6.0\Beeshtiha.Domain.pdb
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.csproj.CopyComplete
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.dll
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\refint\beeshtiha.DAL.dll
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.pdb
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\beeshtiha.DAL.genruntimeconfig.cache
+D:\bootcamp\Beeshtiha\beeshtiha.DAL\obj\Debug\net6.0\ref\beeshtiha.DAL.dll

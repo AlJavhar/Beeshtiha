@@ -1,0 +1,12 @@
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\Beeshtiha.Domain.csproj.AssemblyReference.cache
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\Beeshtiha.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\Beeshtiha.Domain.AssemblyInfoInputs.cache
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\Beeshtiha.Domain.AssemblyInfo.cs
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\Beeshtiha.Domain.csproj.CoreCompileInputs.cache
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\bin\Debug\net6.0\Beeshtiha.Domain.deps.json
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\bin\Debug\net6.0\Beeshtiha.Domain.dll
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\bin\Debug\net6.0\Beeshtiha.Domain.pdb
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\Beeshtiha.Domain.dll
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\refint\Beeshtiha.Domain.dll
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\Beeshtiha.Domain.pdb
+D:\bootcamp\Beeshtiha\Beeshtiha.Domain\obj\Debug\net6.0\ref\Beeshtiha.Domain.dll
